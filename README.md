@@ -1,3 +1,5 @@
+test commit
+
 # Exercise: Context with Regular Functions
 
 In this exercise, you will explore the context of a regular function.
